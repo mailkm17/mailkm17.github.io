@@ -1,11 +1,14 @@
-h1
-{
-         text-align: center;
-         background-color: red;
-}
-p
-{
-	     font-family: Verdana;
-		 font-style: italic;
-		 color: green;
-}
+<h1>Ceci est un titre</h1>
+<h2 class="titre_1">Ceci est un sous titre</h2>
+<p id="para_1">Ceci est un <strong>paragraphe</strong></p>
+<!doctype html>
+<html lang="fr">
+       <head>
+	         <meta charset="utf-8">
+			 <title>Voici mon site</title>
+	   </head>
+	   <body>
+	         <h1>Hello World! Ceci est un titre</h1>
+			 <p>Ceci est un<strong>paragraphe</strong></p>
+		</body>
+</html>
