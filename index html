@@ -1,6 +1,4 @@
-<h1>Ceci est un titre</h1>
-<h2 class="titre_1">Ceci est un sous titre</h2>
-<p id="para_1">Ceci est un <strong>paragraphe</strong></p>
+
 <!doctype html>
 <html lang="fr">
        <head>
